@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ProcessorControl.v(710): always construct contains both blocking and non-blocking assignments File: M:/ECE 287/Processor-MIPS-32bit/Processor/ProcessorControl.v Line: 710
